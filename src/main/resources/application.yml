@@ -15,5 +15,5 @@ spring:
     password: 1234
     driver-class-name: com.mysql.cj.jdbc.Driver
   devtools: <1 key>
-  thymeleaf: 
+  thymeleaf:
 logging:
